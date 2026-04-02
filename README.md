@@ -13,3 +13,9 @@ This project helps in:
 Visualizing diffraction patterns
 Understanding intensity distribution
 Learning through interactive simulation
+
+🛠️ Tech Stack
+Frontend: HTML, CSS, JavaScript
+Visualization: Canvas / DOM manipulation (JS-based rendering)
+Tools: Git, GitHub, VS Code
+
