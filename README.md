@@ -19,3 +19,12 @@ Frontend: HTML, CSS, JavaScript
 Visualization: Canvas / DOM manipulation (JS-based rendering)
 Tools: Git, GitHub, VS Code
 
+✨ Features
+🌈 Real-time diffraction pattern visualization
+🎛️ Adjustable parameters (like slit width, wavelength, etc.) (if implemented)
+📊 Graphical representation of intensity distribution
+⚡ Smooth and interactive UI
+📱 Responsive design
+📖 Physics Concept
+
+Fraunhofer diffraction occurs when light from a distant source passes through a slit and is observed at a far distance (or using a lens).
