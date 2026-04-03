@@ -19,9 +19,12 @@ Frontend: HTML, CSS, JavaScript
 Visualization: Canvas / DOM manipulation (JS-based rendering)
 Tools: Git, GitHub, VS Code
 
+
+
+
 ✨ Features
 🌈 Real-time diffraction pattern visualization
-🎛️ Adjustable parameters (like slit width, wavelength, etc.) (if implemented)
+🎛️ Adjustable parameters (like slit width, wavelength, etc.)
 📊 Graphical representation of intensity distribution
 ⚡ Smooth and interactive UI
 📱 Responsive design
