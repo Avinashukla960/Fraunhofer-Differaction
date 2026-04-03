@@ -20,7 +20,11 @@ Visualization: Canvas / DOM manipulation (JS-based rendering)
 Tools: Git, GitHub, VS Code
 
 
-
+a = slit width
+𝜆
+λ = wavelength of light
+𝜃
+θ = diffraction angle
 
 ✨ Features
 🌈 Real-time diffraction pattern visualization
