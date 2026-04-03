@@ -28,3 +28,15 @@ Tools: Git, GitHub, VS Code
 📖 Physics Concept
 
 Fraunhofer diffraction occurs when light from a distant source passes through a slit and is observed at a far distance (or using a lens).
+🎯 Use Cases
+📚 Physics learning and demonstrations
+🧑‍🏫 Teaching optical concepts
+🧪 Experiment simulation
+💡 Educational projects
+📬 Contact Me
+📧 Email: avinashshukla960@gmail.com
+💼 LinkedIn: Avinash Shukla
+🐙 GitHub: https://github.com/avinashukla960
+⭐ Support
+
+
