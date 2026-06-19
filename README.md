@@ -8,7 +8,7 @@ This project is a web-based simulation of the Fraunhofer Diffraction pattern, bu
 
 The Fraunhofer Diffraction phenomenon is an important concept in physics that explains the wave nature of light.
 
-This project helps in:
+This project help in:
 
 Visualizing diffraction patterns
 Understanding intensity distribution
