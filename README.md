@@ -46,7 +46,7 @@ Fraunhofer diffraction occurs when light from a distant source passes through a 
 🐙 GitHub: https://github.com/avinashukla960
 ⭐ Support
 
-If you found this project useful,please consider giving it a ⭐ on GitHub!
+If you found this project useful, consider giving it a ⭐ on GitHub!
 
 🔮 Future Improvements
 Add multiple slit simulation (Young’s Double Slit)
